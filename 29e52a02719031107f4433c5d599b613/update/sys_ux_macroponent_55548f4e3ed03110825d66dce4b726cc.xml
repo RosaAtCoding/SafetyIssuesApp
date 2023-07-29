@@ -2949,6 +2949,7 @@
         <dispatched_events>99548f4e82d031102133ddcdee5773c5,15548f4ee7d031103a57ac4b2e3543c5</dispatched_events>
         <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
         <handled_events/>
         <interactions/>
         <interfaces/>

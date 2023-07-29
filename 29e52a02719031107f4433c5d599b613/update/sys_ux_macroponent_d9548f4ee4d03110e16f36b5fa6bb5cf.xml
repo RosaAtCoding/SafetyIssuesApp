@@ -809,6 +809,7 @@
         <dispatched_events>59548f4edad031106869f83612e9dac5,dd548f4e1dd03110e3d756896e9f88c5</dispatched_events>
         <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
         <handled_events>9d548f4e3ed031104c03a5fa24d6fecf</handled_events>
         <interactions/>
         <interfaces/>

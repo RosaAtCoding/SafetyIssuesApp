@@ -371,6 +371,7 @@
         <dispatched_events>9d548f4ebbd03110b9663d99675108c4</dispatched_events>
         <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
         <handled_events/>
         <interactions/>
         <interfaces/>

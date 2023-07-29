@@ -41,7 +41,7 @@
         <update_guid_history>7f020bcac0d03110e55eba6c4524cd3d:1175892106</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Can We Help You?.Report a Safety Issue">ac92430e71d031107f4433c5d599b679</sys_audit_delete>
+        <sys_audit_delete display_value="">ac92430e71d031107f4433c5d599b679</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-29 13:50:09</sys_created_on>

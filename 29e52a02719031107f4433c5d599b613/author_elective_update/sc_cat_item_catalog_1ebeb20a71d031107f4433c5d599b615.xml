@@ -41,7 +41,7 @@
         <update_guid_history>9ebeb20a87d03110959f431fedacac17:11122628</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Service Catalog.Report a Safety Issue">93ff764a71d031107f4433c5d599b6e0</sys_audit_delete>
+        <sys_audit_delete display_value="">93ff764a71d031107f4433c5d599b6e0</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-29 13:38:53</sys_created_on>
