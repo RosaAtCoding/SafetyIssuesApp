@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <controller/>
+        <description/>
+        <name>Popular articles event mapping</name>
+        <parent_macroponent display_value="Landing Page">dd548f4ed2d031106911501c85d2ebcf</parent_macroponent>
+        <source_component/>
+        <source_da display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</source_da>
+        <source_element_id>data_row_3</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-29 13:57:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d5548f4e21d0311062ad05cc572d87cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Popular articles event mapping</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_snc_safety">29e52a02719031107f4433c5d599b613</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">29e52a02719031107f4433c5d599b613</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_d5548f4e21d0311062ad05cc572d87cf</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-29 13:57:55</sys_updated_on>
+        <target_event display_value="Popular articles">59548f4ea1d0311066fe09a7725793cf</target_event>
+        <target_payload_mapping>{
+  "type": "MAP_CONTAINER",
+  "container": {
+    "sysId": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "sysId"
+        ]
+      }
+    },
+    "table": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "table"
+        ]
+      }
+    }
+  }
+}</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>

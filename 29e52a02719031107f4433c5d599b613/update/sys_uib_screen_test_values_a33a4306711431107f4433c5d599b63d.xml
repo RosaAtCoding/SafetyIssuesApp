@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{ }</macroponent_config>
+        <screen display_value="Order success Default">d5548f4eead03110a765e36213bef8c2</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-29 14:23:41</sys_created_on>
+        <sys_id>a33a4306711431107f4433c5d599b63d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_snc_safety">29e52a02719031107f4433c5d599b613</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">29e52a02719031107f4433c5d599b613</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_a33a4306711431107f4433c5d599b63d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-29 14:23:41</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

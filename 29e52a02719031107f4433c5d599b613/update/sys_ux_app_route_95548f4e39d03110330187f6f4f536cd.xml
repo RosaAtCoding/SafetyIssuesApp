@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Safety Issues Portal Config">c1548f4e71d031107f4433c5d599b6a6</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Activity</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Record Page(request)">d1548f4e0bd03110984b64d198ac95ce</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_req_activity</route_type>
+        <screen_type display_value="Activity">59548f4efdd03110db5cfc61f9b7ecce</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-29 13:57:54</sys_created_on>
+        <sys_id>95548f4e39d03110330187f6f4f536cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activity</sys_name>
+        <sys_package display_value="Safety" source="x_snc_safety">29e52a02719031107f4433c5d599b613</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">29e52a02719031107f4433c5d599b613</sys_scope>
+        <sys_update_name>sys_ux_app_route_95548f4e39d03110330187f6f4f536cd</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-29 13:57:54</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=95548f4e39d03110330187f6f4f536cd"/>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="approve">55548f4eb5d03110d1d362f70015aed4</declarative_action_assignment>
+        <predicate display_value="My tasks requested item">1d548f4eb9d031106ab3acb841a411c6</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-29 13:57:54</sys_created_on>
+        <sys_id>95548f4e46d03110506fb220a243c1c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_snc_safety">29e52a02719031107f4433c5d599b613</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">29e52a02719031107f4433c5d599b613</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_95548f4e46d03110506fb220a243c1c3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-29 13:57:54</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>
